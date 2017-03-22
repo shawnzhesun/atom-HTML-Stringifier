@@ -1,0 +1,30 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Stringify HTML'
+      'command': 'HTMLStringify:Stringify'
+    }
+    {
+      'label': 'Unstringify HTML'
+      'command': 'HTMLStringify:Unstringify'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'HTML-Stringifier'
+      'submenu': [
+        {
+          'label': 'Stringify'
+          'command': 'HTMLStringify:Stringify'
+        }
+        {
+          'label': 'Unstringify'
+          'command': 'HTMLStringify:Unstringify'
+        }
+      ]
+    ]
+  }
+]
