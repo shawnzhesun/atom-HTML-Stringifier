@@ -3,6 +3,6 @@
     <div class="pull-right" id="button" style="padding-left: 10px; position: relative;"></div>
   </div>
   <div class="row">
-    <div id="GroupsGrid"></div>
+    <div id="abc"></div>
   </div>
 </div>
