@@ -9,7 +9,7 @@
       "HTMLStringify:Unstringify"
     ]
   },
-  "repository": "https://github.com/shawnzhesun/Stringify-Html",
+  "repository": "https://github.com/shawnzhesun/atom-HTML-Stringifier",
   "license": "MIT",
   "engines": {
     "atom": ">1.14.0"
