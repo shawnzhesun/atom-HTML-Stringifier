@@ -1,7 +1,7 @@
 {
   "name": "Stringify-Html",
   "main": "./lib/HTML-Stringifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stringify Html Codes",
   "activationCommands": {
     "atom-workspace": [
